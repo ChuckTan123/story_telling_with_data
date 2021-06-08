@@ -8,6 +8,7 @@ sudo yum install texlive texlive-latex-extra texlive-fonts-recommended dvipng
 
 ## Bar Plot
 <img width="504" alt="Screen Shot 2021-06-08 at 12 15 00 PM" src="https://user-images.githubusercontent.com/29901458/121244007-3b707a80-c853-11eb-814b-30d49c1b86fa.png">
+
 ```python
 from matplotlib import rc
 plt.rcParams.update(
